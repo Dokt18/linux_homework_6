@@ -1,0 +1,3 @@
+Vagrant.configure("2") do |config|
+  config.vm.box = "doka18/centos8-rpm"
+end
